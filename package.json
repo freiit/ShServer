@@ -1,0 +1,14 @@
+{
+  "name": "sh-server",
+  "version": "0.0.1",
+  "description": "A little node express server, where paths and exec-commands can be configured with env variables and query parameters.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Frei <mailto:frei@frei-services.de>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
