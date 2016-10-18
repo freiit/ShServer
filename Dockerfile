@@ -1,4 +1,4 @@
-FROM node:4.4.7
+FROM node:4.6.1
 
 COPY ./app.js ./package.json ./
 RUN npm install
